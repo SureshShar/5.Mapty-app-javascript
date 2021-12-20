@@ -1,0 +1,1 @@
+It is reminder application for jogging and cycling on favorate place . The spot or place can be selected by user.   
